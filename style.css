@@ -1,0 +1,216 @@
+body{
+    padding-bottom: 1000px;
+}
+.manage{
+    height: 850px;
+    background: linear-gradient(76.8deg, #2BA6AC 0%, #36CE83 53.03%, #42E695 100%);
+}
+
+.navbar{
+    background: linear-gradient(76.8deg, #2BA6AC 0%, #36CE83 53.03%, #42E695 100%);
+}
+
+.ti{
+    margin-top: 300px;
+}
+
+.em{
+    height: 60px;
+    border-radius: 6px;
+    border: 0;
+}
+
+.nav-button{
+    border-radius: 20px;
+    border: 0;
+    color: white;
+    background-color: rgb(248, 113, 64);
+    width: 100px;
+    height: 40px;
+}
+
+
+form{
+    display: flex;
+}
+
+.sec-button{
+    border: 0;
+    border-radius: 20px;
+    background-color: rgb(248, 113, 64);
+    color: white;
+}
+
+
+.grid-button{
+    background-color: rgb(248, 113, 64);
+    border: 0;
+    border-radius: 20px;
+    height: 40px;
+    color: white;
+}
+
+.i1{
+    background-color: rgb(190, 34, 190);
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+}
+.i2{
+    background-color: rgb(192, 50, 57);
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+}
+.i3{
+    background-color: rgb(34, 148, 209);
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+}
+.i4{
+    background-color: rgb(224, 162, 80);
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+
+
+.i1:hover{
+    border-radius: 0;
+}
+.i2:hover{
+    border-radius: 0;
+}
+.i3:hover{
+    border-radius: 0;
+}
+.i4:hover{
+    border-radius: 0;
+}
+
+.icone{
+    box-shadow: 5px 5px 5px 5px gray;
+}
+
+
+.Probably{
+    margin-left: 520px;
+    width: 30%;
+}
+
+
+.account{
+    text-align: center;
+    width: 87%;
+    margin-left: 20px;
+}
+
+.grid-h3{
+    margin-left: 95px;
+}
+
+.grid-i{
+    margin-left: 170px;
+    color: white;
+    background-color: rgb(178, 103, 178);
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+
+.grid:hover{
+    box-shadow: 1px 1px 1px 1px grey;
+    padding: 20px;
+}
+
+
+.Beautifully{
+    text-align: center;
+    width: 34%;
+    margin-left: 500px;
+}
+
+
+.iamge{
+    width: 300px;
+    height: 600px;
+    margin-top: 50px;
+}
+
+
+.Hidden{
+    text-align: center;
+    width: 45%;
+    margin-left: 400px;
+}
+
+
+.PRICING-TABLE{
+    background: linear-gradient(76.8deg, #2BA6AC 0%, #36CE83 53.03%, #42E695 100%);
+    height: 800px;
+    width: 100%;
+}
+
+.back{
+    background-color: #fff;
+    height: 550px;
+    width: 90%;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.bhaha{
+    margin-top: 30px;
+}
+
+
+.mekasa{
+    margin-top: 100px;
+}
+
+
+.bb{
+    background-color: #F7F7FF;
+}
+
+
+.hhj{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+}
+
+.mhm{
+    margin-left: 50px;
+}
+.mhmm{
+    width: 68%;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+
+.hyh{
+    width: 100px;
+}
+.bb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 30px;
+}
+.batata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.gg{
+    background: linear-gradient(76.8deg, #2BA6AC 0%, #36CE83 53.03%, #42E695 100%);
+    color: white;
+}
